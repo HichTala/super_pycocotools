@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "super_pycocotools"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
   { name="HichTala", email="hicham.talaoubrid@etu.mines-ales.fr" },
 ]
