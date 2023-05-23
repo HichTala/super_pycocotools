@@ -1,10 +1,10 @@
 [build-system]
-requires = ["setuptools>=61.0"]
-build-backend = "setuptools.build_meta"
+requires = ["hatchling"]
+build-backend = "hatchling.build"
 
 [project]
 name = "super_pycocotools"
-version = "0.0.3"
+version = "0.0.4"
 authors = [
   { name="HichTala", email="hicham.talaoubrid@etu.mines-ales.fr" },
 ]
