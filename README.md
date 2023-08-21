@@ -15,4 +15,4 @@ pip install super_pycocotool
 
 ## Usage
 
-Please refer to the notebook `super_pycocotools_walkthrough.ipynb` which explain how to use the package.
+Please refer to the notebook [`super_pycocotools_walkthrough.ipynb`](https://github.com/HichTala/super_pycocotools/blob/b67445cd69de8aeda105f5d48b43f0f51e6c7ea1/super_pycocotools_walkthrough.ipynb#L6) which explain how to use the package.
